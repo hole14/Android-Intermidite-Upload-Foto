@@ -55,8 +55,8 @@ dependencies {
     //circleimageview
     implementation(libs.circleimageview)
 
-//    //Efek button
-//    implementation(libs.androidx.material.ripple)
+    //Efek button
+    implementation(libs.androidx.material.ripple)
 
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
