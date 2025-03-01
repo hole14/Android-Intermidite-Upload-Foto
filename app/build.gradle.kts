@@ -46,11 +46,11 @@ dependencies {
     implementation(libs.androidx.activity)
     implementation(libs.androidx.constraintlayout)
 
-//    //retrofit
-//    implementation(libs.retrofit)
-//    implementation(libs.converter.gson)
-//    implementation(libs.logging.interceptor)
-//    implementation(libs.okhttp)
+    //retrofit
+    implementation(libs.retrofit)
+    implementation(libs.converter.gson)
+    implementation(libs.logging.interceptor)
+    implementation(libs.okhttp)
 //
 //    //circleimageview
 //    implementation(libs.circleimageview)
