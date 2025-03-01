@@ -51,10 +51,10 @@ dependencies {
     implementation(libs.converter.gson)
     implementation(libs.logging.interceptor)
     implementation(libs.okhttp)
-//
-//    //circleimageview
-//    implementation(libs.circleimageview)
-//
+
+    //circleimageview
+    implementation(libs.circleimageview)
+
 //    //Efek button
 //    implementation(libs.androidx.material.ripple)
 
